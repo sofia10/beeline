@@ -1,0 +1,11 @@
+@import "../commons/default";
+@import "../fonts/scss/fonts-ru";
+body{
+  font-size: 14px;
+  font-family: $primary;
+  background: $body-color;
+  color: $text;}
+
+.site__header{}
+.site__content{}
+.site__footer{}
